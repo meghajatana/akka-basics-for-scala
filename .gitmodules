@@ -1,3 +1,6 @@
 [submodule "001_barista_object_oriented"]
 	path = 001_barista_object_oriented
 	url = https://github.com/meghajatana/001_barista_object_oriented.git
+[submodule "002_coffee_machine"]
+	path = 002_coffee_machine
+	url = https://github.com/meghajatana/002_coffee_machine.git
