@@ -4,3 +4,6 @@
 [submodule "002_coffee_machine"]
 	path = 002_coffee_machine
 	url = https://github.com/meghajatana/002_coffee_machine.git
+[submodule "003_child_actor"]
+	path = 003_child_actor
+	url = https://github.com/meghajatana/003_child_actor.git
